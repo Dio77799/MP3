@@ -23,7 +23,7 @@ const canciones = [
     {
         titulo: 'BABY I LOVE YOUR WAY',
         nombre: 'Desconocido',
-        fuente: 'music/- - BABY I LOVE YOU.mp3'
+        fuente: 'music/- - BABY I LOVE YOUR WAY.mp3'
     },
     {
         titulo: 'Dream',
